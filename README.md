@@ -132,6 +132,7 @@ The four plots that you will need to construct are shown below.
   dev.copy(png,"plot1.png", width=480, height=480)
   dev.off()
 ```
+![](https://github.com/DerzAlert/ExData_Plotting1/blob/master/plot1.png)
 
 ### Plot 2
 ```R
@@ -142,7 +143,7 @@ The four plots that you will need to construct are shown below.
   dev.copy(png,"plot2.png", width=480, height=480)
   dev.off()
 ```
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![](https://github.com/DerzAlert/ExData_Plotting1/blob/master/plot2.png)
 
 
 ### Plot 3
@@ -162,7 +163,7 @@ The four plots that you will need to construct are shown below.
 dev.copy(png, file="plot3.png", height=480, width=480)
   dev.off()
 ```
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![](https://github.com/DerzAlert/ExData_Plotting1/blob/master/plot3.png)
 
 
 ### Plot 4
@@ -189,5 +190,5 @@ dev.copy(png, file="plot3.png", height=480, width=480)
   dev.copy(png, file="plot4.png", height=480, width=480)
   dev.off()
 ```
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![](https://github.com/DerzAlert/ExData_Plotting1/blob/master/plot4.png)
 
